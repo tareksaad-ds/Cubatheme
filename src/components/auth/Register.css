@@ -1,0 +1,33 @@
+.register {
+  height: 600px;
+  color: black;
+  padding-top: 80px;
+  max-width: 30%;
+  margin-left: 450px;
+}
+img {
+  margin-bottom: 30px;
+  margin-left: 140px;
+}
+.reg {
+  text-align: left;
+}
+#signup {
+  background-color: #8268fd;
+  border: none;
+  min-width: 100%;
+}
+#signup:hover {
+  background-color: #4433ff;
+  border: none;
+}
+.card {
+  max-width: 30%;
+  display: block;
+  margin-bottom: auto;
+  margin-right: auto;
+  padding: 30px;
+}
+.sign {
+  color: #4433ff;
+}

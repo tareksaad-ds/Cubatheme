@@ -1,0 +1,33 @@
+.loogin {
+  height: 600px;
+  color: black;
+  padding-top: 80px;
+  max-width: 30%;
+  margin-left: 450px;
+}
+img {
+  margin-bottom: 30px;
+  margin-left: 140px;
+}
+
+.log {
+  text-align: left;
+}
+#signin {
+  background-color: #8268fd;
+  border: none;
+  min-width: 100%;
+  color: white;
+}
+#signin:hover {
+  background-color: #4433ff;
+  border: none;
+  color: white;
+}
+.card {
+  max-width: 30%;
+  display: block;
+  margin-bottom: auto;
+  margin-right: auto;
+  padding: 30px;
+}

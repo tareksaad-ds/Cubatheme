@@ -1,0 +1,54 @@
+nav.navbar {
+  background-color: white;
+  padding: 15px;
+  font-weight: 500;
+}
+.nav-right {
+  float: right;
+}
+
+.bu {
+  background-color: #eae2fe;
+  border-radius: 5%;
+  color: #787bfb !important;
+  padding-right: 1rem !important;
+  padding-left: 1rem !important;
+}
+a .bu:hover {
+  background-color: #787bfb;
+  border-radius: 5%;
+  color: white !important;
+  padding-right: 1rem !important;
+  padding-left: 1rem !important;
+}
+.lu {
+  background-color: #fddee6;
+  border-radius: 5%;
+  color: #f76081 !important;
+  margin-left: 10px;
+  padding-right: 1rem !important;
+  padding-left: 1rem !important;
+}
+a .lu:hover {
+  background-color: #f74b64;
+  border-radius: 5%;
+  color: white !important;
+  margin-left: 10px;
+  padding-right: 1rem !important;
+  padding-left: 1rem !important;
+}
+.dropdown {
+  margin-right: 70px;
+  margin-top: 7px;
+}
+.dropdown:hover {
+  background-color: white;
+}
+.icons {
+  margin-right: 20px;
+  color: black;
+  font-size: 20px;
+}
+.icons svg:hover {
+  color: #787bfb;
+}
